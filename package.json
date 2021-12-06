@@ -4,7 +4,7 @@
   "description": "",
   "main": "hello.js",
   "scripts": {
-    "start": "hello.js"
+    "start": "server.js"
   },
   "author": "",
   "license": "ISC"
